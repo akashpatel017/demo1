@@ -1,4 +1,4 @@
 # demo1
 This is my first Git Repository
 <br>
-Author Name : Akash Patel
+Author Name : Akash soni
